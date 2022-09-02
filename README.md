@@ -202,4 +202,4 @@ Function Prototype:
 *****
 
 ## Author
-[CHIKEZIE SUCCESS](https://github.com/Succynice)
+[Ezebilo Nkemjika](https://github.com/vianey-code)
